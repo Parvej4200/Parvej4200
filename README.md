@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00F7FF?style=for-the-badge" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00F7FF?style=for-the-badge" alt="Cyber security" />
   <img src="https://img.shields.io/badge/Specialization-Blue%20Team-1F6FEB?style=for-the-badge" alt="Blue Team" />
   <img src="https://img.shields.io/badge/Mindset-Always%20Learning-success?style=for-the-badge" alt="Always learning" />
 </p>
