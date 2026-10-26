@@ -1,143 +1,205 @@
+<div align="center">
 
-<!-- ================= PROFILE HEADER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0891b2&height=150&section=header&text=Md.%20Parvej%20Hasan&fontColor=22d3ee&fontSize=42&fontAlignY=38&desc=Aspiring%20Cybersecurity%20Engineer%20%7C%20CSE%20Student&descColor=e6edf3&descSize=16&descAlignY=60" alt="Md. Parvej Hasan" width="100%"/>
 
-<h1 align="center">👋 Hi, I'm Parvej</h1>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Blue+Team+%7C+Defensive+Security;Explainable+AI+for+Attack+Detection;Python+%7C+Machine+Learning+%7C+Networking;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
 
-<h3 align="center">🔐 Aspiring Cybersecurity Engineer | CSE Student</h3>
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Aspiring+Cybersecurity+Engineer;Blue+Team+%7C+Defensive+Security;Learning+Today%2C+Securing+Tomorrow" alt="Animated typing text" />
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=CYBERSECURITY&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=38" width="100%" alt="Cybersecurity banner" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00F7FF?style=for-the-badge" alt="Cyber security" />
-  <img src="https://img.shields.io/badge/Specialization-Blue%20Team-1F6FEB?style=for-the-badge" alt="Blue Team" />
-  <img src="https://img.shields.io/badge/Mindset-Always%20Learning-success?style=for-the-badge" alt="Always learning" />
-</p>
+![Focus](https://img.shields.io/badge/FOCUS-CYBERSECURITY-22d3ee?style=for-the-badge&labelColor=555555)
+
+
+
+
+![Specialization](https://img.shields.io/badge/SPECIALIZATION-BLUE%20TEAM-2563eb?style=for-the-badge&labelColor=555555)
+
+
+
+
+![Research](https://img.shields.io/badge/RESEARCH-EXPLAINABLE%20AI-8b5cf6?style=for-the-badge&labelColor=555555)
+
+
+
+
+![Status](https://img.shields.io/badge/OPEN%20TO-ENTRY--LEVEL%20ROLES-22c55e?style=for-the-badge&labelColor=555555)
+
+
+
+</div>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
-
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering student passionate about **Cybersecurity, Blue Team Defense, and Information Security**.
+I'm a Computer Science & Engineering undergraduate at **World University of Bangladesh** (CGPA **3.52 / 4.00**, expected 2027) based in Dhaka. I build **defensive security tools in Python** and **machine learning systems for attack detection**, with a focus on **Blue Team Defense, Information Security, and Explainable AI (XAI)**.
 
-- 🔐 Aspiring Cybersecurity Engineer
-- 🛡️ Interested in Blue Team Defense and security auditing
-- 🐧 Learning Linux, Networking, and Security Fundamentals
-- 🔎 Exploring phishing awareness, encryption, and password security
-- 💻 Building hands-on cybersecurity projects
+- 🔐 Aspiring Cybersecurity / AI-Security Engineer, seeking entry-level roles
+- 🛡️ Interested in Blue Team Defense, security auditing, and intrusion & attack detection
+- 🧠 Undergraduate thesis: **Explainable AI Framework for VANET Attack Detection** (expected January 2027)
+- 🌐 Hands-on with Networking, LAN configuration, and client-server architecture
+- 🔎 Building practical projects in password security, encryption, and phishing analysis
 - 🎓 Planning to pursue higher studies abroad
 
 > 💡 My goal is to continuously learn, develop practical security skills, and contribute to a safer digital world.
 
 ---
 
-<!-- ================= SKILLS ================= -->
+## 🧪 Undergraduate Thesis
+
+### Explainable AI Framework for VANET Attack Detection
+*Autonomous Vehicle Systems, World University of Bangladesh | Expected January 2027*
+
+- Built an end-to-end ML/DL cybersecurity framework in Python to detect VANET routing and position-offset attacks in Connected Autonomous Vehicles, trained on the **VeReMi dataset (1.38M+ records)**.
+- Engineered spatial-temporal features (Euclidean distance, relative speed, acceleration) with **Scikit-Learn** and **TensorFlow** preprocessing pipelines.
+- Evaluated multiple classifiers, including Random Forest and LightGBM. **Random Forest reached 1.00 precision, 0.99 recall, and 0.99 F1-score.**
+- Integrated **SHAP** and **LIME** so every detection is interpretable for security analysts.
+- Benchmarked real-time feasibility: **LightGBM** reached **6.06 ms** total latency (P99 8.22 ms, 164.8 flows/s), meeting the sub-10 ms constraint for onboard deployment.
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Period |
+|------|--------------|--------|
+| **Cyber Security Intern** | DecodeLabs (Virtual Internship) | Aug 2026 – Sep 2026 |
+| **Machine Learning Engineering Intern** | FlyRank AI (Remote, Global) | Jul 2026 – Sep 2026 |
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Cybersecurity Practical Projects
+Practical cybersecurity projects in Python featuring 4 core modules, published with documentation on GitHub using Git version control.
+
+| # | Module | What it does |
+|---|--------|--------------|
+| 1 | 🔑 **Password Strength Checker** | Evaluates credentials and promotes stronger password practices |
+| 2 | 🔒 **Basic Encryption & Decryption** | Cryptographic data protection scripts demonstrating confidentiality |
+| 3 | 🎣 **Phishing Awareness Analysis** | Analyzes social-engineering indicators in suspicious messages and links |
+| 4 | 🛡️ **Audited Systems: Blue Team Defense Framework** | System auditing functions and defensive security practices |
+
+**Tech Stack:** `Python` `Cybersecurity` `Password Security` `Encryption & Decryption` `Phishing Analysis` `Blue Team Defense` `Git` `GitHub`
+
+🔗 **Repository:** [cybersecurity-practical-projects](https://github.com/Parvej4200/cybersecurity-practical-projects)
+
+### 🌐 Client-Server LAN Network Setup with Multi-Services
+Designed and configured a client-server Local Area Network with multiple network services, and verified connectivity, resource sharing, and service access across the architecture.
+
+**Tech Stack:** `Networking` `LAN Configuration` `Client-Server Architecture` `Network Services`
+
+🔗 **Repository:** [Client-Server-LAN-Network-Setup-with-Multi-Services](https://github.com/Parvej4200/Client-Server-LAN-Network-Setup-with-Multi-Services)
+
+### 🤖 AI & Machine Learning Portfolio (FlyRank AI)
+End-to-end ML workflows in Python and Jupyter Notebook, covering problem framing, implementation, and reproducible documentation.
+
+**Tech Stack:** `Python` `Machine Learning` `Jupyter Notebook` `Data Analysis` `Git`
+
+🔗 **Repository:** [Professional-AI-Machine-Learning-Portfolio-FlyRank-AI](https://github.com/Parvej4200/-Professional-AI-Machine-Learning-Portfolio-FlyRank-AI-)
+
+---
 
 ## 🛠️ Skills & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,c,cpp,git,github,vscode&perline=8" alt="Technology icons" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Learning-00F7FF?style=flat-square" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Networking-Fundamentals-blue?style=flat-square" alt="Networking" />
-  <img src="https://img.shields.io/badge/Blue%20Team-Defense-1F6FEB?style=flat-square" alt="Blue Team Defense" />
-  <img src="https://img.shields.io/badge/Linux-Command%20Line-black?style=flat-square&logo=linux" alt="Linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,ubuntu,git,github,vscode,tensorflow,sklearn,jupyter,photoshop,illustrator" alt="Skills" />
+
+<br/><br/>
+
+
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Defensive%20Security-0891b2?style=flat-square)
+
+
+
+
+![Blue Team](https://img.shields.io/badge/Blue%20Team-Defense-2563eb?style=flat-square)
+
+
+
+
+![Networking](https://img.shields.io/badge/Networking-LAN%20Configuration-2563eb?style=flat-square)
+
+
+
+
+![XAI](https://img.shields.io/badge/Explainable%20AI-SHAP%20%7C%20LIME-8b5cf6?style=flat-square)
+
+
+
+
+![ML](https://img.shields.io/badge/Machine%20Learning-Security-22c55e?style=flat-square)
+
+
+
+
+![Linux](https://img.shields.io/badge/Linux-Command%20Line-black?style=flat-square&logo=linux&logoColor=white)
+
+
+
+</div>
+
+| Area | Details |
+|------|---------|
+| **Security** | Cybersecurity & Defensive Security Fundamentals, Encryption & Password Security, Phishing Analysis, Network Security & Protocols, Intrusion & Attack Detection |
+| **AI / ML** | Machine Learning for Security, Explainable AI (SHAP, LIME), Scikit-Learn, TensorFlow, Data Analysis & EDA |
+| **Programming** | Python, C, C++ |
+| **Tools** | Git, GitHub, Linux, Jupyter Notebook, Photoshop, Illustrator, InDesign |
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+## 🏅 Certifications
 
-## 🔐 Featured Projects
-
-### 1. 🔑 Password Strength Checker
-- Evaluates password strength.
-- Promotes stronger password practices.
-- Demonstrates basic security programming concepts.
-
-### 2. 🔒 Basic Encryption & Decryption
-- Demonstrates fundamental encryption and decryption concepts.
-- Explores how information can be transformed and recovered.
-
-### 3. 🎣 Phishing Awareness Analysis
-- Explores common phishing techniques.
-- Promotes awareness of suspicious messages and links.
-- Focuses on safer online practices.
-
-### 4. 🛡️ Audited Systems — Blue Team Defense Framework
-- Focuses on foundational system auditing.
-- Explores defensive security practices.
-- Supports learning about system security and risk identification.
-
-<p align="center">
-  <i>Explore my GitHub repositories to learn more about my projects.</i>
-</p>
+- [Introduction to Cybersecurity](https://www.credly.com/badges/ab64a3df-6403-47f0-a535-a9338dc7ea3a) (Cisco Networking Academy)
+- [Networking Basics](https://www.credly.com/badges/dc1ea552-ba5a-48ef-83db-3466752c7969) (Cisco Networking Academy)
+- Pre Security Learning Path (TryHackMe)
+- [Cybersecurity Job Simulation](https://www.theforage.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_6acb4aea9066691ef5de3aba_1791708507218_completion_certificate.pdf?raw=1) (Forage / Mastercard)
+- [Introduction to CISSP Security Assessment & Testing and Security Operations](https://simpli-web.app.link/e/ds54eUlmO6b) (Simplilearn)
+- [Describe Basic Cybersecurity Threats, Attacks, and Mitigations](https://learn.microsoft.com/api/achievements/share/en-us/MdParvejHasan-4354/XP3KRWRY?sharingId=11B8EDF51272E1A6) (Microsoft)
+- [AI in Cybersecurity](https://www.udemy.com/certificate/UC-f003cf0a-fadf-4f6c-9cb3-8b3c52814c82/) (Udemy)
+- [FlyRank AI ML Track credential](https://internship.flyrank.ai/verify) (FlyRank AI)
 
 ---
-
-<!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Parvej4200&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvej4200&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvej4200&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-<!-- ================= CAREER GOALS ================= -->
+## 📫 Let's Connect
 
-## 🎯 Career Goals
+<div align="center">
 
-- 🎓 Complete my Computer Science and Engineering degree.
-- 🔐 Strengthen my cybersecurity knowledge and practical skills.
-- 🛡️ Develop expertise in defensive security and system auditing.
-- 🌍 Pursue higher education abroad.
-- 💼 Build a successful career as a Cybersecurity Engineer.
+[
 
----
+![LinkedIn](https://img.shields.io/badge/LinkedIn-parvej--hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<!-- ================= CONNECT ================= -->
+](https://www.linkedin.com/in/parvej-hasan-bb306a3b0)
+[
 
-## 🤝 Connect With Me
+![Gmail](https://img.shields.io/badge/Gmail-parvejaniq%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+](mailto:parvejaniq@gmail.com)
+[
 
----
+![GitHub](https://img.shields.io/badge/GitHub-Parvej4200-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- ================= FOOTER ================= -->
+](https://github.com/Parvej4200)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Animated footer banner" />
-</p>
+*Open to entry-level Cybersecurity and AI-security roles, research positions, and internships.*
 
-<h3 align="center">💻 Learn. Build. Defend. Repeat. 🔐</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0d1117&height=100&section=footer" width="100%" alt="footer"/>
 
-<p align="center">
-  <i>“The best way to learn cybersecurity is to keep learning and building.”</i>
-</p>
-
+</div>
